@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Phase } from '../types';
+import type { Phase } from '../types';
 import RoadmapPhaseItem from './RoadmapPhaseItem';
 
 interface RoadmapAccordionProps {
